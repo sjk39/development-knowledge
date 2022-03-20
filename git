@@ -1,0 +1,27 @@
+See cheat sheet - https://images.app.goo.gl/HeuCSVNwUEvjfaUt8 (last updated link 20-MAR-22)
+
+Head -The HEAD points out the last commit in the current checkout branch. 
+
+Detached head - When you checkout a specific commit rather than a branch.
+
+Merging - git merge, combine the changes of two branches.
+
+Commit modifiers -https://git-scm.com/docs/git-commit
+
+Delete branches - git branch -d <branch-name>, OR: git branch -D <branch-name> (uppercase D forces delete).
+
+Stash - git stash to stash changes to a branch, git stash apply to re-apply changes.
+
+Rebase - https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+
+Fetch -
+
+Diff -
+
+Restore -
+
+Reset - 
+
+Init -
+
+Remote -
